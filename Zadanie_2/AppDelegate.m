@@ -1,9 +1,3 @@
-//
-//  AppDelegate.m
-//  Zadanie_2
-//
-//  Created by Modzel on 12/10/2021.
-//
 
 #import "AppDelegate.h"
 
